@@ -1,0 +1,7 @@
+flake8==3.5.0
+Jinja2==2.10
+jupyter==1.0.0
+numpy==1.14.4
+pandas==0.23
+pytest==3.6.1
+
